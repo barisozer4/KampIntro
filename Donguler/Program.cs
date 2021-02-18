@@ -32,7 +32,7 @@ namespace Donguler
                 Console.WriteLine(kurs);
             }
 
-            Console.WriteLine("Sayfa Sonu - footer");
+            Console.WriteLine("Sayfa Sonu - footer"); 
 
         }
     }

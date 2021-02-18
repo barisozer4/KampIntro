@@ -49,6 +49,6 @@ namespace ClassIntro
     {
         public string KursAdi { get; set; }
         public string Egitmen { get; set; }
-        public int IzlenmeOrani { get; set; }
+        public int IzlenmeOrani { get; set; } 
     }
 }

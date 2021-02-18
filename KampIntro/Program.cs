@@ -41,7 +41,7 @@ namespace KampIntro
                 Console.WriteLine("Giriş yap butonu");
             }
 
-            Console.WriteLine(kategoriEtiketi);
+            Console.WriteLine(kategoriEtiketi); 
 
 
 

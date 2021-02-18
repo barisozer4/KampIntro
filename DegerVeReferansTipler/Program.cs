@@ -23,7 +23,7 @@ namespace DegerVeReferansTipler
             //int, decimal, float, double, bool = DEĞER TİP
             //array, class, interface = REFERANS TİP
 
-            //Bellekte -stack- ve -heap- iki alan vardır.
+            //Bellekte -stack- ve -heap- iki alan vardır. 
         }
     }
 }
