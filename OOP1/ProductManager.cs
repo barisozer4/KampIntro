@@ -15,7 +15,7 @@ namespace OOP1
         public void Update(Product product)
         {
             Console.WriteLine(product.ProductName + " güncellendi.");
-        }
+        } 
 
     }
 }

@@ -18,7 +18,7 @@ namespace OOP1
             //case sensitive - büyük küçük harf duyarlı
             //PascalCase   //camelCase
             ProductManager productManager = new ProductManager();
-            productManager.Add(product1);
+            productManager.Add(product1); 
 
 
         }
